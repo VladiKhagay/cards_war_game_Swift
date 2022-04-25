@@ -30,16 +30,9 @@ class ViewController: UIViewController {
     var isGameEnded: Bool = false
     var deck = Deck()
     
-    
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
         games_LBL.text = "\(games_played) / \(num_of_games)"
-
         
     }
 
