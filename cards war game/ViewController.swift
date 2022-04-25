@@ -1,5 +1,4 @@
-//
-//  ViewController.swift
+
 //  cards war game
 //
 //  Created by Vladi Khagay and Asaf Chen on 17/04/2022.
@@ -22,7 +21,7 @@ class ViewController: UIViewController {
     var player1_score: Int = 0
     var player2_score: Int = 0
     var games_played: Int = 1
-    var num_of_games: Int = 2
+    var num_of_games: Int = 15
     
     var player1_cards: [Card] = []
     var player2_cards: [Card] = []
