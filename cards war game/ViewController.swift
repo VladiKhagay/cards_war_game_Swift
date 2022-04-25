@@ -1,7 +1,7 @@
 
 //  cards war game
 //
-//  Created by Vladi Khagay and Asaf Chen on 17/04/2022.
+//  Created by Vladi Khagay on 17/04/2022.
 //
 
 import UIKit
